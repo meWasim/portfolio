@@ -46,7 +46,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="card card2 mb-5">
                     <div class="card-header has-icon">
-                        <i class="ti-package text-danger" aria-hidden="true"></i>
+                        <i class="bi bi-package text-danger" aria-hidden="true"></i>
                     </div>
                     <div class="card-body px-4 py-3">
                         <h5 class="mb-3 card-title text-dark">Tempora</h5>
