@@ -12619,7 +12619,7 @@ pre .code {
 
 .header {
     position: relative;
-    height: 80vh;
+    height: 92vh;
     min-height: 600px;
     background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/home.jpg);
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/home.jpg);
@@ -12637,6 +12637,7 @@ pre .code {
 
 .header .header-content {
     width: 100%;
+    
     position: absolute;
     left: 0;
     top: 55%;
