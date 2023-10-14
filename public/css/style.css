@@ -5482,6 +5482,23 @@ input[type="button"].btn-block {
     border: 1px solid rgba(0, 0, 0, 0.125);
     border-radius: 0;
 }
+.card1{
+    background-image: -webkit-linear-gradient(bottom, rgba(242, 241, 241, 0.5), rgba(189, 182, 182, 0.5)), url(../img/weather.jpg);
+    background-image: linear-gradient(to top, rgba(237, 229, 229, 0.5), rgba(221, 215, 215, 0.5)), url(../img/weather.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.card2{
+    background-image: -webkit-linear-gradient(bottom, rgba(242, 241, 241, 0.5), rgba(189, 182, 182, 0.5)), url(../img/trans.jpg);
+    background-image: linear-gradient(to top, rgba(237, 229, 229, 0.5), rgba(221, 215, 215, 0.5)), url(../img/trans.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
 
 .card>hr {
     margin-right: 0;
