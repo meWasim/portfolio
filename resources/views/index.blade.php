@@ -15,6 +15,11 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+@if(Session::has('success'))
+    <div class="alert alert-success notification-popup">
+        {{Session::get('success')}}
+    </div>
+@endif
     <!-- Header -->
     @component('components.header-component')
     @endcomponent

@@ -27,7 +27,7 @@ public function store(Request $request)
     // Optionally, you can redirect or return a response here
 
     // Redirect to a thank you page or return a success response
-    return redirect()->route('thankyou');
+    return redirect()->back()->withSuccess('Message Send Successfully');
 }
 //
 }
