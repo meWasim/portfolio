@@ -20,4 +20,5 @@ Route::get('/', function () {
 
 // routes/web.php
 Route::post('/contact', [MessageController::class , 'store'])->name('contact.submit');
+Route::get('/show', [MessageController::class , 'show'])->name('show');
 
