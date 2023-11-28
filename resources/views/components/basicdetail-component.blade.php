@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-1 text-danger pt-1"><i class="ti-stats-up icon-lg"></i></div>
                 <div class="col-10 ml-auto mr-3">
-                    <h6>DSoftware Engineering</h6>
+                    <h6>Software Engineering</h6>
                     <hr>
                 </div>
             </div>

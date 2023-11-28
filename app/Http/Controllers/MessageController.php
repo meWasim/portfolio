@@ -29,5 +29,11 @@ public function store(Request $request)
     // Redirect to a thank you page or return a success response
     return redirect()->back()->withSuccess('Message Send Successfully');
 }
+
+public function show(){
+    $messages=Message::all();
+    
+    return view('show', compact('messages'));
+}
 //
 }

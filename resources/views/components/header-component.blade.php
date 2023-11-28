@@ -1,10 +1,10 @@
 <header class="header">
         <div class="container">
             <ul class="social-icons pt-3">
-                <li class="social-item"><a class="social-link text-light" href="#"><i class="bi bi-linkedin" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://www.linkedin.com/in/alfwasim"><i class="bi bi-linkedin" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="#"><i class="bi bi-twitter" aria-hidden="true"></i></a></li>
-                <li class="social-item"><a class="social-link text-light" href="#"><i class="bi bi-google" aria-hidden="true"></i></a></li>
-                <li class="social-item"><a class="social-link text-light" href="#"><i class="bi bi-instagram" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://mailto:alfwasim@gmail.com"><i class="bi bi-envelope-at-fill" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://instagram.com/alfwasimansari?igshid=YTQwZjQ0NmI0OA=="><i class="bi bi-instagram" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="https://github.com/meWasim" target="_blank"><i class="bi bi-github" aria-hidden="true"></i></a></li>
             </ul>
             <div class="header-content">
